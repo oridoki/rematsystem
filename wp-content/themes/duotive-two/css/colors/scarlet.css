@@ -1,0 +1,195 @@
+/* COLOR VARIATION: SCARLET */
+div.header-bg { background:url("http://www.rematsystem.com/wp-content/themes/duotive-two/images/colors/scarlet/header-wrapper-bg.png") repeat-x !important; }
+div.header-wrapper { background:url("../../images/colors/scarlet/header-glow.jpg") no-repeat center top !important;}
+div.motion-header-wrapper { background:url("../../images/colors/scarlet/header-motion.jpg") no-repeat center top !important;}
+div.fractal-header-wrapper { background:url("../../images/colors/scarlet/header-fractal.jpg") no-repeat center top !important;}
+div.warp-header-wrapper { background:url("../../images/colors/scarlet/header-warp.jpg") no-repeat center top !important;}
+div.abstract-header-wrapper { background:url("../../images/colors/scarlet/header-abstract.jpg") no-repeat center top !important;}
+div.bubbles-header-wrapper { background:url("../../images/colors/scarlet/header-bubbles.jpg") no-repeat center top !important;}
+div.lights-header-wrapper { background:url("../../images/colors/scarlet/header-lights.jpg") no-repeat center top !important;}
+div.glamour-header-wrapper { background:url("../../images/colors/scarlet/header-glamour.jpg") no-repeat center top !important;}
+div.pattern-1-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-01.jpg") no-repeat center top !important;}
+div.pattern-2-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-02.jpg") no-repeat center top !important;}
+div.pattern-3-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-03.jpg") no-repeat center top !important;}
+div.pattern-4-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-04.jpg") no-repeat center top !important;}
+div.pattern-5-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-05.jpg") no-repeat center top !important;}
+div.pattern-6-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-06.jpg") no-repeat center top !important;}
+div.pattern-7-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-07.jpg") no-repeat center top !important;}
+div.pattern-8-header-wrapper { background:url("../../images/colors/scarlet/header-pattern-08.jpg") no-repeat center top !important;}
+div.front-page-column h3,
+#main-menu ul li a span.title,
+h1, h2, h3, h4, h5, h6, 
+#content a:link,
+#content a:visited,
+#content strong,
+div.front-page-bottom ul.latest-blog li a:link, 
+div.front-page-bottom ul.latest-blog li a:visited,
+#content-slider div.content a.readmore:link,
+#content-slider div.content a.readmore:visited,
+#footersearch input.searchbox,
+#sidebar .widget-container ul li a:hover,
+#sidebar .widget-container ul li a:active,
+div.scroll-content-thumb span.date,
+#wp-calendar caption,
+#wp-calendar tr th,
+#wp-calendar tr td#today,
+#wp-calendar tr td a:hover,
+#wp-calendar tr td a:active {
+	color:#a92e29;
+}
+span.separator {
+	border-right:1px solid #a92e29;
+}
+#content div.entry-title span.entry-date span.line-left, 
+#content div.entry-title span.entry-date span.line-right,
+#content div.entry-title span.entry-date span.top,
+#content div.entry-title span.entry-date span.bottom,
+#content div.tabs ul.ui-tabs-nav li.ui-state-hover a:link,
+#content div.tabs ul.ui-tabs-nav li.ui-state-hover a:visited,
+#content div.tabs ul.ui-tabs-nav li.ui-state-active a:link,
+#content div.tabs ul.ui-tabs-nav li.ui-state-active a:visited,
+#slider-1 span.content h3,
+#slider-4 span.content h3,
+#slideshow-full-text div.slide-text h3,
+#main-menu ul ul li:hover,
+#content div.dropcapsquare,
+#content table thead tr th,
+div.scroll-content-thumb span.title,
+div.nivo-caption h3{	
+	background:#a92e29;
+}
+#content div.tabs ul.ui-tabs-nav li a:link, 
+#content div.tabs ul.ui-tabs-nav li a:visited,
+ol.commentlist div.comment-date div.reply a:link,
+ol.commentlist div.comment-date div.reply a:visited{
+	color:#a92e29 !important;
+}
+#content div.tabs ul.ui-tabs-nav li.ui-state-hover a:link, 
+#content div.tabs ul.ui-tabs-nav li.ui-state-hover a:visited, 
+#content div.tabs ul.ui-tabs-nav li.ui-state-active a:link,
+#content div.tabs ul.ui-tabs-nav li.ui-state-active a:visited {
+	color:#FFF !important;
+}
+div.front-page-column div.textwidget a.read-more:link,
+div.front-page-column div.textwidget a.read-more:visited, 
+#content a.more-link:link, #content a.more-link:visited,
+#sidebar a.more-link:link, #sidebar a.more-link:visited,
+input[type=button],
+input[type=submit]{
+	color:#FFF;
+	background:url("../../images/colors/scarlet/widget-read-more.png") top repeat-x;
+}
+div.front-page-column div.textwidget a.read-more:hover,
+div.front-page-column div.textwidget a.read-more:active,
+#content a.more-link:hover,
+#content a.more-link:active,
+#sidebar a.more-link:hover,
+#sidebar a.more-link:active,
+input[type=button]:hover,
+input[type=submit]:hover{
+	background:url("../../images/colors/scarlet/widget-read-more.png") bottom repeat-x;
+}
+div.front-page-column div.textwidget a.read-more span.arrow {
+	background:url("../../images/colors/scarlet/widget-read-more-arrow.png") no-repeat;
+}
+#footer a.read-more:link,
+#footer a.read-more:visited {
+	background:url("../../images/colors/scarlet/widget-read-more-arrow.png") no-repeat 0px 8px;
+}
+#big-button:link,
+#big-button:visited {
+
+	background:url("../../images/colors/scarlet/big-button.png") top repeat-x;
+}
+#big-button:hover,
+#big-button:active {
+	background:url("../../images/colors/scarlet/big-button.png") bottom repeat-x;
+}
+#slider-1 div.buttons span:hover, 
+#slider-1 div.buttons span.active {
+	background:url("../../images/colors/scarlet/slider-button.png") no-repeat center bottom;
+}
+#slider-2 div.buttons span:hover,
+#slider-2 div.buttons span.active {
+	background:url("../../images/colors/scarlet/slider-button.png") no-repeat center bottom;
+}
+#slider-3 div.buttons span:hover,
+#slider-3 div.buttons span.active {
+	background:url("../../images/colors/scarlet/slider-button.png") no-repeat center bottom;
+}
+#slider-4 #controls #prev:hover {background:url("../../images/colors/scarlet/small-prev.png") no-repeat center top;}
+#slider-4 #controls #next:hover,#slider-4 #controls #play:hover {background:url("../../images/colors/scarlet/small-next.png") no-repeat center top;}
+#slider-4 #controls #stop:hover {background:url("../../images/colors/scarlet/small-stop.png") no-repeat center top;}
+
+ul.starlist li { background:url("../../images/colors/scarlet/starlist.png") no-repeat left 5px;}
+ul.arrowlist li { background:url("../../images/colors/scarlet/arrowlist.png") no-repeat 0px -11px; }
+ul.bulletlist li { background:url("../../images/colors/scarlet/bulletlist.png") no-repeat left 7px;}
+ul.heartlist li { background:url("../../images/colors/scarlet/heartlist.png") no-repeat left 7px;}
+ul.diamondlist li { background:url("../../images/colors/scarlet/diamondlist.png") no-repeat left 7px;}
+ul.pluslist li { background:url("../../images/colors/scarlet/pluslist.png") no-repeat left 7px;}
+ul.squarelist li { background:url("../../images/colors/scarlet/squarelist.png") no-repeat left 7px;}
+ul.checklist li { background:url("../../images/colors/scarlet/checklist.png") no-repeat left 7px;}
+
+#content h3.ui-accordion-header a:link, 
+#content h3.ui-accordion-header a:visited { 
+	background:url("../../images/colors/scarlet/arrowlist.png") no-repeat 20px -1px;
+}
+#content h3.ui-state-hover, 
+#content h3.ui-state-active { 
+	background:#a92e29 url("../../images/colors/scarlet/arrowlist.png") no-repeat 20px bottom;
+}
+#content h3.ui-state-active a:link,
+#content h3.ui-state-active a:visited,
+#content h3.ui-state-active a:hover, 
+#content h3.ui-state-active a:active {
+	background:none;
+}
+#content div.tabs ul.ui-tabs-nav {
+	border-bottom:2px solid #8F2622;
+}
+div.front-page-bottom ul.latest-blog li a:link, 
+div.front-page-bottom ul.latest-blog li a:visited,
+#content-slider div.content a.readmore:link,
+#content-slider div.content a.readmore:visited {
+	background:url("../../images/colors/scarlet/more-frontpage-bottom.png") no-repeat right 7px;
+}
+div.wp-pagenavi span.current,
+div.wp-pagenavi a:hover,
+div.wp-pagenavi a:active {
+	background-color:none;
+	background:url("../../images/colors/scarlet/page-navi-bg.png") repeat-x; 
+	color:#FFF !important;
+	border:1px solid #a92e29;
+}
+#content-slider-controls span:hover, #content-slider-controls span.active {
+	background:url("../../images/colors/scarlet/content-slider-control.png") no-repeat center bottom;
+}
+#footer-wrapper {
+	background:#a92e29 url("../../images/footer-noise.png") repeat;
+}
+#footer div.tab {
+	background:url("../../images/colors/scarlet/footer-tabs-sep.png") repeat-y right;
+}
+#footersearch input.searchbox {
+	border-bottom:1px solid #a92e29;
+	border-right:1px solid #a92e29;
+}
+#searchform input.search { background:url("../../images/colors/scarlet/search-button.png") top center no-repeat;}
+#searchform input.search:hover { background:url("../../images/colors/scarlet/search-button.png") bottom center no-repeat;}
+#sidebar .widget-container ul li { background:url("../../images/colors/scarlet/arrowlist.png") no-repeat 10px -6px;}
+#slideshow-wrapper { background:url("../../images/colors/scarlet/slider-loading.gif") center 150px no-repeat; }
+#content table thead tr th { border-top:3px solid #8f2622; }
+#content table.pricing span.yes {background:url("../../images/colors/scarlet/price-table-yes.png") no-repeat;}
+#content table.pricing span.no {background:url("../../images/colors/scarlet/price-table-no.png") no-repeat;}
+div.colored-frame {	border:5px solid #a92e29;}
+#content div.tour ul.ui-tabs-nav li.ui-state-active a:link,
+#content div.tour ul.ui-tabs-nav li.ui-state-active a:visited,
+#content div.tour ul.ui-tabs-nav li.ui-state-hover a:link,
+#content div.tour ul.ui-tabs-nav li.ui-state-hover a:visited {
+	background:url("../../images/colors/scarlet/tour-active.png") no-repeat;
+}
+.nivo-controlNav a:hover,
+.nivo-controlNav a:active,
+.nivo-controlNav a.active {
+	background:url("../../images/colors/scarlet/slider-button.png") no-repeat center bottom;
+}
